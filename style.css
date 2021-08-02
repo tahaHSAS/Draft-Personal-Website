@@ -1,0 +1,32 @@
+
+header{
+  text-align: center; 
+  Background: url('https://bdn-ss-tc.s3.amazonaws.com/uploads/2017/10/45893421_H18845897-640x400.jpg');
+  Background-size: cover;
+  Color: white; 
+  font-weight: 900; 
+  } 
+
+img{
+  Height: 125px;
+  Width: 125px;
+  text-align: center;
+  border: 5px solid white;
+  border-radius: 150px;
+  }
+
+#nav{ 
+  padding: 0px 0px 0px 0px;
+  background: black; 
+  }
+
+li {
+  display: inline;  
+  padding: 0px 10px 0px 10px;
+  }
+#one,#two,#three {
+  display: block;  
+  }
+
+
+
